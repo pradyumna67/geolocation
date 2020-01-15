@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441138667017",
+    "firebase_url": "https://fluttergeolocation-22171.firebaseio.com",
+    "project_id": "fluttergeolocation-22171",
+    "storage_bucket": "fluttergeolocation-22171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441138667017:android:05ceb8e4d66dd0a8e1a2d8",
+        "android_client_info": {
+          "package_name": "com.example.geolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441138667017-krcu3ktt8g1781g8mgeieptjf462o19h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGpIjSlJ77vAbKfZn8bw_MOwecLC8N-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441138667017-krcu3ktt8g1781g8mgeieptjf462o19h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
